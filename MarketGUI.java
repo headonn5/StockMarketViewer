@@ -1,3 +1,6 @@
+import stock_ui.MarketWatcherFrame;
+import stock_utils.Utility;
+
 /** The main class that loads the start-up UI for the user.
  *
  *  @author Nishant Paul

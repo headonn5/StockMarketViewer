@@ -1,3 +1,5 @@
+package stock_ui;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -7,10 +9,15 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+import stock_model.StockModel;
+import stock_network.NetworkRequest;
+import stock_utils.*;
+
+
 /** Represents the foundation panel class which shows the basic UI to the user.
  *  In this panel, a ticker sub-panel, a start-date sub-panel, and an end-date sub-panel is added
  *  along with a button to forward the user's request and some labels for the UX purpose.
- *  This class also sends the user's response to the NetworkRequest class for further processing.
+ *  This class also sends the user's response to the stock_network.NetworkRequest class for further processing.
  *
  *  @author Nishant Paul
  */

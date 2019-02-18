@@ -1,3 +1,5 @@
+package stock_utils;
+
 import javax.swing.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;

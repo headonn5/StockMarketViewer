@@ -1,8 +1,16 @@
+package stock_ui;
+
+import stock_model.StockModel;
+import stock_utils.StockWatchType;
+import stock_utils.Utility;
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.*;
 import java.awt.geom.Line2D;
 import java.awt.geom.Rectangle2D;
+
+import static stock_utils.StockWatchType.*;
 
 /** This class represents a graph plotting swing panel where all the intricacies
  *  of setting up the xy plane of the graph is handled.

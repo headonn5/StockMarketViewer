@@ -1,3 +1,5 @@
+package stock_ui;
+
 import javax.swing.*;
 import java.awt.*;
 

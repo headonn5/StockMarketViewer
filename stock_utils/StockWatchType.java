@@ -1,3 +1,5 @@
+package stock_utils;
+
 /** An Enumerator to store properties of the type of Stock.
  *
  *  @author Nishant Paul

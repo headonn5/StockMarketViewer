@@ -1,3 +1,5 @@
+package stock_model;
+
 import java.util.Date;
 
 /** A Model class to store properties of the Stock.

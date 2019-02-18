@@ -1,8 +1,10 @@
+package stock_ui;
+
 import javax.swing.*;
 import java.util.ArrayList;
 
 
-/** The parent class for StartDatePanel and EndDatePanel classes that contains the basic layout structure
+/** The parent class for stock_ui.StartDatePanel and stock_ui.EndDatePanel classes that contains the basic layout structure
  *  for the start date and end dates panel.
  *
  *  @author Nishant Paul

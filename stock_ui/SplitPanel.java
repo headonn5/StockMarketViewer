@@ -1,3 +1,8 @@
+package stock_ui;
+
+import stock_model.StockModel;
+import stock_utils.StockWatchType;
+
 import javax.swing.*;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;

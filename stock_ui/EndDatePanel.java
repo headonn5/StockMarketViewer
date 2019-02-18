@@ -1,7 +1,10 @@
+package stock_ui;
+
 import javax.swing.*;
 import java.awt.*;
+import stock_utils.Utility;
 
-/** A panel class that includes elements such as labels and combo box from the parent "DatesPanel" class
+/** A panel class that includes elements such as labels and combo box from the parent "stock_ui.DatesPanel" class
  *
  *  @author Nishant Paul
  */

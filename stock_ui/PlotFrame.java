@@ -1,3 +1,7 @@
+package stock_ui;
+
+import stock_model.StockModel;
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
